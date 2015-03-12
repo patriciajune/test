@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hello World!</h1>
+<<<<<<< HEAD
+	<h1>Yo!</h1>
+=======
+	<h1>Ya!</h1>
+>>>>>>> ab-6l_canceran
 	<img src="image.jpg"/>
 	
 	<p> Patricia June L. Canceran, 2012-17426, AB-6L </p>
